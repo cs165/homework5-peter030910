@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "erudite-concord-236115",
+  "private_key_id": "0b7f391756c623179fe026d7a34d907be174b6c2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCeD/Ah8D957NaV\n8tvywToMwSimllbja2nIrJipTOxsxAV+HrRTyXHw+QW1Lfgxe6l2hiYudiS/Rd6J\nw+CJKiqe+4PrpwNexwM0couCq0Bp4vAhQKbZT9gV3ZHPj2THAVq4BBaalEWwwfGW\nCQd0HglOt57AG8oHwrgAWQsWEgg6PQBS9Q28Ssufdn3QzuGuL1NE/Z61aegs3uTD\ngbeqWgpToNzJaWmm/2s4hc0DLNLTTjiLJ4tO6gHwO4He+bs8g2nNEdVjB5hSfi1r\nRgM+phkfPGKqS3CnUpk86cB87dGeGXYg9H2n9E1Ctgih8bY80BOKg3eIdpAyUXqF\nbu2VQoNJAgMBAAECggEAAfKThV9PhgbkAJlnszHMOiizE3xJmVERYJkFuHgzk7tz\n3bTdAdA7C7GxJJqY28ABnWoZRE+0qRGgQQSceNyjU5v3LM+V/k8QpBYBSN2LPS5R\n137TgiPxHmAvqFJaCLAy2QehiGRCOkqszuLbyg4xolwSCYDptXV3IKJNkrx5q9aR\npN8xqS6oKqr9aw9daucVUYJvvoUsYjpNd40s1T8HuTuIMro2qnTjpdOTE1O2X5cm\nJq5Wv82DGvyvfRz0uJM8Wu8TsRZNNBExSIcZhtkUfHV7KfQfqw0/DwKJ/VCxcx2V\nFeMyMcCF0zQDUZ+Sw3/QisXYgZ8qePX39wekkvL44QKBgQDUx/ntbn8QpoXClnmn\n5nytVw7wVIQT0ZCzUOaweOHt/5hwOwtUGufYle9s+dkfaYOhpbk4/dJIxfpyxtwn\nztnzvtY9orLZf/qa+ee/RdIKQqwSZQBXJDd+gOVLdAGUyIsKMYYhr9wNmTLWynu9\nlNepN044pfXR0sz/x4oCidWNaQKBgQC+Krt7fLBywpL/XPCDG6I3WOUhMsivY4vT\n1xnEnNZ93IgDJujiwaoj+68TpKtMZADEiih4lmlLD8mTWzx0Ws71OqRPrY7yH+wk\n9e3yjI2pRRy7sQeJB+G4HdGVhMSPoz/r12OW+4kAJXwAerwyYA+Le79hAFzmJ4vm\ncjuJuq4q4QKBgQCXSOeFzL5DFGKeC2bL3bBffjp83VpazPFYzPh4GDpqgQPdJ93S\nGp8k+tWUYb/h+Z9BWxbqUm0kmL6MxJ7bHtMP3mtsvzTyN2/yqCQBdp7z9JtrKKyp\nSHK8WuCsWPqW0k8pHDUF1odak8X1uVlpXV5ITa4r0LOKT5q5cSHK1D0loQKBgQCC\n1WGRrxKykd2SpT2v5jYvwBA8S/U4fdN41reaxpDnnO9Sw9VcFQPap9EnQZa9Atxo\nW+lGNa2Rf/YeVJn+L2/N1h+v1efP+1h7gVvJERxxheQj2cMmau7HvnQwW1zkudtD\nhje1a68xE5kBt299dQuc2nGr6hUAH9snnBYMRwyG4QKBgCpaeuGE5NEgiuZByJPC\n950KLyx0QeTWRdR19sXG8Qe9Feh4+pYLDAddE0nxcYRxSsgYoX3qlCkzObZ/6PJJ\nR3tNJw6nGwbj7TgaqyJ8yIfJxZn7KabavAMX9/J8oDTsjf2jaKVw57PrIJxjet2b\nXfktoCK8MUAJg33fxku7bn21\n-----END PRIVATE KEY-----\n",
+  "client_email": "hw5-sheets@erudite-concord-236115.iam.gserviceaccount.com",
+  "client_id": "118084183193790392130",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hw5-sheets%40erudite-concord-236115.iam.gserviceaccount.com"
+}
